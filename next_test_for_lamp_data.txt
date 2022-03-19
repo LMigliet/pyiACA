@@ -1,0 +1,11 @@
+LAMP paper
+
+Problem we have:
+the curve are really similar. We are exploring how to shape them differently.
+
+Approach:
+Reduce the multiplex, she did 4 and 3-plex
+
+To see:
+- Tets do 25% TESTINg and 75% training.
+- calculate the C parameter
